@@ -61,6 +61,8 @@ Lyrics:
   </tfoot>
 </table>
 
+<hr>
+
 #### Long samples with accompaniments
 
 Lyrics: \
@@ -102,8 +104,7 @@ in which the prosody and melody are spontaneously decided by machine.
   </tfoot>
 </table>
 
-
-
+<hr>
 
 ### Contact 
 Chien-Feng Liao: jerrygood0703@gmail.com
