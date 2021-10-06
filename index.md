@@ -60,7 +60,10 @@ We provide short samples from the subjective evalutaion described in the paper a
   </tfoot>
 </table>
 
-#### Long samples
+#### Long samples with accompaniments
+
+Lyrics: 
+In this paper we propose a novel neural network model called Karaoke singer for a less studied singing voice synthesis task named score-free SVS, in which the prosody and melody are spontaneously decided by machine.
 
 <table style='text-align: center;'>
   <tbody>
@@ -72,11 +75,23 @@ We provide short samples from the subjective evalutaion described in the paper a
       <td>Sample 1</td>
       <td><audio controls=""><source src="./assets/audios/long/temp0.wav" type="audio/mpeg" /></audio></td>
     </tr>
-  </tbody>
-  <tfoot>
     <tr>
       <td>Sample 2</td>
       <td><audio controls=""><source src="./assets/audios/long/temp1.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td>Sample 3</td>
+      <td><audio controls=""><source src="./assets/audios/long/temp2.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td>Sample 4</td>
+      <td><audio controls=""><source src="./assets/audios/long/temp3.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>Sample 5</td>
+      <td><audio controls=""><source src="./assets/audios/long/temp4.wav" type="audio/mpeg" /></audio></td>
     </tr>
   </tfoot>
 </table>
