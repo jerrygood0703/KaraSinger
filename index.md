@@ -106,7 +106,7 @@ in which the prosody and melody are spontaneously decided by machine.
 
 
 ### Contact 
-
-<hr>
 Chien-Feng Liao: jerrygood0703@gmail.com
+<hr>
+This project is developed and supported by <a href="https://ailabs.tw/about-us">Taiwan AI Labs</a>
 
