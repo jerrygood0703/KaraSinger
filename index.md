@@ -11,6 +11,7 @@ We provide short samples from the subjective evalutaion described in the paper a
 
 
 #### Short samples
+Lyrics:
 1. Just a small town girl living in a lonely world
 2. She took the midnight train going anywhere
 3. It goes on and on and on and on
