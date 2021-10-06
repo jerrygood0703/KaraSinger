@@ -31,29 +31,26 @@ We provide short samples from the subjective evalutaion described in the paper a
       <td><audio controls=""><source src="./assets/audios/3level/0.wav" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audios/noctc/0.wav" type="audio/mpeg" /></audio></td>
     </tr>
-  </tbody>
-  <tfoot>
     <tr>
       <td>Sample 2</td>
       <td><audio controls=""><source src="./assets/audios/proposed/1.wav" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audios/3level/1.wav" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audios/noctc/1.wav" type="audio/mpeg" /></audio></td>
     </tr>
-  </tfoot>
     <tr>
       <td>Sample 3</td>
       <td><audio controls=""><source src="./assets/audios/proposed/2.wav" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audios/3level/2.wav" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audios/noctc/2.wav" type="audio/mpeg" /></audio></td>
     </tr>
-  </tfoot>
     <tr>
       <td>Sample 4</td>
       <td><audio controls=""><source src="./assets/audios/proposed/3.wav" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audios/3level/3.wav" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audios/noctc/3.wav" type="audio/mpeg" /></audio></td>
     </tr>
-  </tfoot>
+  </tbody>
+  <tfoot>
     <tr>
       <td>Sample 5</td>
       <td><audio controls=""><source src="./assets/audios/proposed/4.wav" type="audio/mpeg" /></audio></td>
