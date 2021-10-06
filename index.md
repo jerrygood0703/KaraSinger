@@ -62,8 +62,13 @@ We provide short samples from the subjective evalutaion described in the paper a
 
 #### Long samples with accompaniments
 
-Lyrics: 
-In this paper we propose a novel neural network model called Karaoke singer for a less studied singing voice synthesis task named score-free SVS, in which the prosody and melody are spontaneously decided by machine.
+Lyrics: \
+In this paper we propose \
+a novel neural network model \
+called Karaoke singer for a less studied \
+singing voice synthesis task \
+named score-free SVS \
+in which the prosody and melody are spontaneously decided by machine.
 
 <table style='text-align: center;'>
   <tbody>
