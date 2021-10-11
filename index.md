@@ -4,10 +4,11 @@ This is the demo page for the paper **"KARASINGER: SCORE-FREE SINGING VOICE SYNT
 ## Abstract
 In this paper, we propose a novel neural network model called KaraSinger for a less-studied singing voice synthesis (SVS) task named score-free SVS, in which the prosody and melody are spontaneously decided by machine. KaraSinger comprises a vector-quantized variational autoencoder (VQ-VAE) that compresses the Mel-spectrograms of singing audio to sequences of discrete codes, and a language model (LM) that learns to predict the discrete codes given the corresponding lyrics. For the VQ-VAE part, we employ a Connectionist Temporal Classification (CTC) loss to encourage the discrete codes to carry phoneme-related information. For the LM part, we use location-sensitive attention for learning a robust alignment between the input phoneme sequence and the output discrete code. We keep the architecture of both the VQ-VAE and LM light-weight for fast training and inference speed. We validate the effectiveness of the proposed design choices using a proprietary collection of 550 English pop songs sung by multiple amateur singers. The result of a listening test shows that KaraSinger achieves high scores in intelligibility, musicality, and the overall quality.
 
+<hr>
+
 ### Audio Samples
 
 We provide short samples from the subjective evalutaion described in the paper and long-length samples.
-<hr>
 
 
 #### Short samples
@@ -111,8 +112,7 @@ research organization based in Taipei. \
 Our goal is to leverage \
 unique advantages in Taiwan \
 to build AI solutions \
-to solve the worlds problems. \
-
+to solve the worlds problems.
 
 <table style='text-align: center;'>
   <tbody>
