@@ -106,7 +106,7 @@ in which the prosody and melody are spontaneously decided by machine.
 </table>
 
 Lyrics: \
-台灣人工智慧實驗室 \
+台灣人工智慧實驗室 (Taiwan AI labs) \
 is a privately funded \
 research organization based in Taipei. \
 Our goal is to leverage \
