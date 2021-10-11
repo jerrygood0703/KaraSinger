@@ -81,25 +81,25 @@ in which the prosody and melody are spontaneously decided by machine.
     </tr>
     <tr>
       <td>Sample 1</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyircs1/temp0.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp0.wav" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
       <td>Sample 2</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyircs1/temp1.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp1.wav" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
       <td>Sample 3</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyircs1/temp2.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp2.wav" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
       <td>Sample 4</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyircs1/temp3.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp3.wav" type="audio/mpeg" /></audio></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
       <td>Sample 5</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyircs1/temp4.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp4.wav" type="audio/mpeg" /></audio></td>
     </tr>
   </tfoot>
 </table>
@@ -122,25 +122,25 @@ to solve the worlds problems. \
     </tr>
     <tr>
       <td>Sample 1</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyircs2/temp0.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp0.wav" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
       <td>Sample 2</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyircs2/temp1.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp1.wav" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
       <td>Sample 3</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyircs2/temp2.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp2.wav" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
       <td>Sample 4</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyircs2/temp3.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp3.wav" type="audio/mpeg" /></audio></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
       <td>Sample 5</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyircs2/temp4.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp4.wav" type="audio/mpeg" /></audio></td>
     </tr>
   </tfoot>
 </table>
