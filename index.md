@@ -81,25 +81,66 @@ in which the prosody and melody are spontaneously decided by machine.
     </tr>
     <tr>
       <td>Sample 1</td>
-      <td><audio controls=""><source src="./assets/audios/long/temp0.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyircs1/temp0.wav" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
       <td>Sample 2</td>
-      <td><audio controls=""><source src="./assets/audios/long/temp1.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyircs1/temp1.wav" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
       <td>Sample 3</td>
-      <td><audio controls=""><source src="./assets/audios/long/temp2.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyircs1/temp2.wav" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
       <td>Sample 4</td>
-      <td><audio controls=""><source src="./assets/audios/long/temp3.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyircs1/temp3.wav" type="audio/mpeg" /></audio></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
       <td>Sample 5</td>
-      <td><audio controls=""><source src="./assets/audios/long/temp4.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyircs1/temp4.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+  </tfoot>
+</table>
+
+Lyrics: \
+台灣人工智慧實驗室 \
+is a privately funded \
+research organization based in Taipei. \
+Our goal is to leverage \
+unique advantages in Taiwan \
+to build AI solutions \
+to solve the worlds problems. \
+
+
+<table style='text-align: center;'>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>KaraSinger</td>
+    </tr>
+    <tr>
+      <td>Sample 1</td>
+      <td><audio controls=""><source src="./assets/audios/long/lyircs2/temp0.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td>Sample 2</td>
+      <td><audio controls=""><source src="./assets/audios/long/lyircs2/temp1.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td>Sample 3</td>
+      <td><audio controls=""><source src="./assets/audios/long/lyircs2/temp2.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td>Sample 4</td>
+      <td><audio controls=""><source src="./assets/audios/long/lyircs2/temp3.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>Sample 5</td>
+      <td><audio controls=""><source src="./assets/audios/long/lyircs2/temp4.wav" type="audio/mpeg" /></audio></td>
     </tr>
   </tfoot>
 </table>
