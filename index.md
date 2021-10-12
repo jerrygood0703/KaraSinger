@@ -29,35 +29,35 @@ Lyrics:
     </tr>
     <tr>
       <td>Sample 1</td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/proposed/0.wav" type="audio/wav" /></audio></td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/3level/0.wav" type="audio/wav" /></audio></td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/noctc/0.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/proposed/0.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/3level/0.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/noctc/0.wav" type="audio/wav" /></audio></td>
     </tr>
     <tr>
       <td>Sample 2</td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/proposed/1.wav" type="audio/wav" /></audio></td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/3level/1.wav" type="audio/wav" /></audio></td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/noctc/1.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/proposed/1.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/3level/1.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/noctc/1.wav" type="audio/wav" /></audio></td>
     </tr>
     <tr>
       <td>Sample 3</td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/proposed/2.wav" type="audio/wav" /></audio></td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/3level/2.wav" type="audio/wav" /></audio></td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/noctc/2.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/proposed/2.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/3level/2.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/noctc/2.wav" type="audio/wav" /></audio></td>
     </tr>
     <tr>
       <td>Sample 4</td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/proposed/3.wav" type="audio/wav" /></audio></td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/3level/3.wav" type="audio/wav" /></audio></td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/noctc/3.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/proposed/3.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/3level/3.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/noctc/3.wav" type="audio/wav" /></audio></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
       <td>Sample 5</td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/proposed/4.wav" type="audio/wav" /></audio></td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/3level/4.wav" type="audio/wav" /></audio></td>
-      <td><audio controls="" style="width: 140px;height: 50px"><source src="./assets/audios/noctc/4.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/proposed/4.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/3level/4.wav" type="audio/wav" /></audio></td>
+      <td><audio controls="" style="width: 160px;height: 50px"><source src="./assets/audios/noctc/4.wav" type="audio/wav" /></audio></td>
     </tr>
   </tfoot>
 </table>
