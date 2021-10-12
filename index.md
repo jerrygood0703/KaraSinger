@@ -29,35 +29,35 @@ Lyrics:
     </tr>
     <tr>
       <td>Sample 1</td>
-      <td><audio controls=""><source src="./assets/audios/proposed/0.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audios/3level/0.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audios/noctc/0.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/proposed/0.wav" type="audio/wav" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/3level/0.wav" type="audio/wav" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/noctc/0.wav" type="audio/wav" /></audio></td>
     </tr>
     <tr>
       <td>Sample 2</td>
-      <td><audio controls=""><source src="./assets/audios/proposed/1.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audios/3level/1.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audios/noctc/1.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/proposed/1.wav" type="audio/wav" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/3level/1.wav" type="audio/wav" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/noctc/1.wav" type="audio/wav" /></audio></td>
     </tr>
     <tr>
       <td>Sample 3</td>
-      <td><audio controls=""><source src="./assets/audios/proposed/2.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audios/3level/2.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audios/noctc/2.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/proposed/2.wav" type="audio/wav" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/3level/2.wav" type="audio/wav" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/noctc/2.wav" type="audio/wav" /></audio></td>
     </tr>
     <tr>
       <td>Sample 4</td>
-      <td><audio controls=""><source src="./assets/audios/proposed/3.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audios/3level/3.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audios/noctc/3.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/proposed/3.wav" type="audio/wav" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/3level/3.wav" type="audio/wav" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/noctc/3.wav" type="audio/wav" /></audio></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
       <td>Sample 5</td>
-      <td><audio controls=""><source src="./assets/audios/proposed/4.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audios/3level/4.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audios/noctc/4.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/proposed/4.wav" type="audio/wav" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/3level/4.wav" type="audio/wav" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/noctc/4.wav" type="audio/wav" /></audio></td>
     </tr>
   </tfoot>
 </table>
@@ -82,25 +82,25 @@ in which the prosody and melody are spontaneously decided by machine.
     </tr>
     <tr>
       <td>Sample 1</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp0.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp0.wav" type="audio/wav" /></audio></td>
     </tr>
     <tr>
       <td>Sample 2</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp1.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp1.wav" type="audio/wav" /></audio></td>
     </tr>
     <tr>
       <td>Sample 3</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp2.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp2.wav" type="audio/wav" /></audio></td>
     </tr>
     <tr>
       <td>Sample 4</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp3.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp3.wav" type="audio/wav" /></audio></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
       <td>Sample 5</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp4.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics1/temp4.wav" type="audio/wav" /></audio></td>
     </tr>
   </tfoot>
 </table>
@@ -122,25 +122,25 @@ to solve the worlds problems.
     </tr>
     <tr>
       <td>Sample 1</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp0.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp0.wav" type="audio/wav" /></audio></td>
     </tr>
     <tr>
       <td>Sample 2</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp1.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp1.wav" type="audio/wav" /></audio></td>
     </tr>
     <tr>
       <td>Sample 3</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp2.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp2.wav" type="audio/wav" /></audio></td>
     </tr>
     <tr>
       <td>Sample 4</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp3.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp3.wav" type="audio/wav" /></audio></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
       <td>Sample 5</td>
-      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp4.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audios/long/lyrics2/temp4.wav" type="audio/wav" /></audio></td>
     </tr>
   </tfoot>
 </table>
